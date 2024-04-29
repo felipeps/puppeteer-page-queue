@@ -1,4 +1,4 @@
-# Homework task
+# Puppeteer Page Queue
 
 This is a small node application that generates a PDF file using puppeteer. You can check src/pdf/pdf.controller.ts to see how it generates a very dummy PDF file.
 
